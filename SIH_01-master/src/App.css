@@ -1,0 +1,92 @@
+.App {
+  background-color: rgba(245, 245, 9, 0.263);
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #096bdb;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.heading {
+  font-size: 2rem;
+  text-align: center;
+  font-family: serif;
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+#chat_head {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.chatbot {
+  margin: 0 auto;
+  min-width: 50vw;
+  max-width: 50vw;
+  min-height: 50vh;
+  max-height: 100vh;
+}
+
+#img1 {
+  width: 100px;
+  height: 100px;
+}
+
+#img2 {
+  width: 100px;
+  height: 100px;
+}
+
+/* CSS styles for small screens */
+@media (max-width: 600px) {
+  .chatbot {
+    min-width: 90vw;
+    max-width: 90vw;
+    min-height: 60vh;
+    max-height: 100vh;
+  }
+
+  /* Other styles for small screens */
+  .heading {
+    font-size: 1.5rem;
+  }
+}
+
+/* CSS styles for medium screens */
+@media (min-width: 601px) and (max-width: 1024px) {
+  .chatbot {
+    min-width: 70vw;
+    max-width: 70vw;
+    min-height: 60vh;
+    max-height: 100vh;
+  }
+
+  /* Other styles for medium screens */
+  .heading {
+    font-size: 1.8rem;
+  }
+}
+
+/* CSS styles for large screens */
+@media (min-width: 1025px) {
+  .chatbot {
+    min-width: 60vw;
+    max-width: 60vw;
+    min-height: 60vh;
+    max-height: 100vh;
+  }
+
+  /* Other styles for large screens */
+  .heading {
+    font-size: 2.2rem;
+  }
+}

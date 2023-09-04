@@ -1,0 +1,24 @@
+{
+    "model_path": "ml_model/export_model.bin",
+    "label_encoders": {
+        "product": [
+            "asadd",
+            "textile"
+        ],
+        "month": [
+            "april ",
+            "august",
+            "december",
+            "february",
+            "january",
+            "july ",
+            "june ",
+            "march",
+            "may ",
+            "november",
+            "october",
+            "sdfsdf",
+            "september"
+        ]
+    }
+}
