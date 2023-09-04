@@ -3,12 +3,15 @@
 DAK GHAR NIRAYAT KENDRA is a service which has been stareted under the INDIAN POST .The main aim of this is to promote trade between INDIA and other countries and also to enable small scaled businesses and traders to be able to export their products abroad.Although this is already been done by ecommerce services such as amazon but DAK GHAR NIRAYAT KENDRA offers much more .DAK GHAR NIRAYAT KENDRA is a one stop portal where a buyer can buy any product from other country , a seller can sell his product in the international market without going anywhere  and from the screen of his phone . 
 # PROBLEMS
 In INDIA where nearly 300 million people have thier own businesses , many of them can not take them to the international market. Some of the main reasons are
-1)Lack of trust between the seller and private organisations.
-2)Extra charges which are currently being taken by third party organisations in private firms.
-3)Difficulty in documentation and other formalities.
-4)Lack of knowledge about the demand of their product in International Market.
-5)Difficulty in dealing with modern technology.
-6)BUYER does not trust the product supplier.
+•	Lack of trust between the seller and private organisations.
+•	Extra charges which are currently being taken by third party organisations in private firms.
+•	Difficulty in documentation and other formalities.
+•	Lack of knowledge about the demand of their product in International Market.
+•	Difficulty in dealing with modern technology.
+•	BUYER does not trust the product supplier
+
+
+
 
 # SOLUTIONS
 1) There has always been a gap between private firms and local vendors. DAK GHAR NIRAYAT KENDRA being a government organisation will insure that no injustice is done to any buyer and supplier who are using their services.
